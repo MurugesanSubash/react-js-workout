@@ -1,0 +1,21 @@
+h5{
+    background-color:color(srgb red green blue);
+}
+label
+{
+    color:blue;
+    text-decoration: underline red;
+    font-weight: bold;
+
+}
+#pic
+{
+    background-image:url(../kongu.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+
+h6{ font-weight: bolder;}
