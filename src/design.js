@@ -10,9 +10,9 @@ let drawing = {
   color:'blue'
 }
 
-let pic = {
+
   
-}
+
     return(
     <>   
           <div className=" row justify-content-center container" id='pic'>

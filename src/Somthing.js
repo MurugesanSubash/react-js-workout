@@ -11,7 +11,6 @@ export let Learnusestate=()=>
     {
         setMyname(temp.target.value)
     }
-    
 
     function getter()
     {

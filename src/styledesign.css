@@ -10,12 +10,12 @@ label
 }
 #pic
 {
-    background-image:url(../kongu.jpeg);
+    
+    background-image:url('../public/image/css.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 
-    
 }
 
 h6{ font-weight: bolder;}

@@ -1,12 +1,14 @@
-import { Learnusestate } from './Somthing';
-import './styledesign.css'
+import {Summer} from './season'
+import { Form } from './forminput';
+
+import { Object } from './newwork';
 
 function List()
 {
   return(
 
     <> 
-    <Learnusestate/>  
+    <Object/>
     </>
   )
 }
